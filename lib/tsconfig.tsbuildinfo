@@ -310,7 +310,7 @@
         "signature": "f570853d290afa811fd520a475923bc4ce2a93466f6b9ffe4919e5482eea9f68"
       },
       "/users/prasanna/src/ergatta/action-aws-cli/src/main.ts": {
-        "version": "03c97ed874c7114f493f0653ec7429ec6e6628c5943415723cce51e9a57052cd",
+        "version": "3a9e133335503c59113d82b77e0e81a38086e7b00ebc52f8af916f92da0d9ee9",
         "signature": "692adc3bd4886b1e5179e80521b81eeec7e4e2aa14f31ab2fecfe97ef100c876"
       },
       "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@babel/types/lib/index.d.ts": {
@@ -1508,7 +1508,6 @@
       "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@actions/io/lib/io.d.ts",
       "/users/prasanna/src/ergatta/action-aws-cli/src/util.ts",
       "/users/prasanna/src/ergatta/action-aws-cli/src/toolhandler.ts",
-      "/users/prasanna/src/ergatta/action-aws-cli/src/main.ts",
       "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@babel/types/lib/index.d.ts",
       "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@types/babel__generator/index.d.ts",
       "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@types/babel__traverse/index.d.ts",
@@ -1528,7 +1527,8 @@
       "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@types/semver/index.d.ts",
       "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@types/stack-utils/index.d.ts",
       "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@types/yargs-parser/index.d.ts",
-      "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@types/yargs/index.d.ts"
+      "/users/prasanna/src/ergatta/action-aws-cli/node_modules/@types/yargs/index.d.ts",
+      "/users/prasanna/src/ergatta/action-aws-cli/src/main.ts"
     ]
   },
   "version": "3.5.3"

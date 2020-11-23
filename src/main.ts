@@ -1,6 +1,6 @@
 
 
-import {addPath} from '@actions/core/lib/core'
+import {addPath} from '@actions/core'
 import {DownloadExtractInstall} from './toolHandler'
 import * as path from 'path'
 
